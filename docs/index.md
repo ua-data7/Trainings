@@ -1,7 +1,7 @@
 ## University of Arizona, Data Science Institute
 ###  Trainings Program Repository
 
-![UA Data Science Institute ](https://github.com/clizarraga-UAD7/Workshops/blob/main/UA_OldMainBldg.jpeg?raw=true)
+![UA Data Science Institute ](./images/UA_OldMain.jpg))
 
 (University of Arizona Old Main Bldg., Image by Author, CC)
 
