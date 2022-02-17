@@ -1,7 +1,7 @@
 ## University of Arizona, Data Science Institute
 ###  Trainings Program Repository
 
-![UA Data Science Institute ](./images/UA_OldMain.jpg))
+![UA Data Science Institute ](./images/UA_OldMain.jpeg)
 
 (University of Arizona Old Main Bldg., Image by Author, CC)
 
