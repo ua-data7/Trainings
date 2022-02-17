@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## University of Arizona, Data Science Institute
+###  Trainings Program Repository
 
-You can use the [editor on GitHub](https://github.com/ua-data7/Trainings/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+![UA Data Science Institute ](https://github.com/clizarraga-UAD7/Workshops/blob/main/SabinoCanyon2.jpeg?raw=true)
+(Sabino Canyon AZ, Image by Author, CC)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Welcome to the Spring 2022 DSI Trainings Project for R4R Graduate Students and DSF Postdocs.**
 
-### Markdown
+**Coordinators:** Maliaca Oxnam, Holly Ellingson.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Sessions Spring 2022**
 
-```markdown
-Syntax highlighted code block
+| Date | Session 1 | Session 2 |
+| :---: | :---       | :---  |
+|  Jan 24 - 28 |   Introduction, Expectations |  Present own research |
+|Jan 31 - Feb 4   |  [Introduction to Open Science](OpenScience.md) |  [FAIR/CARE](FAIR-CARE.md) |
+|  Feb 7 - 11 |  [Project Management](./ProjectManagement.md) |  Project Management Lab |
+| Feb 14 - 18   | [Data Management FAIR/CARE](DataManagement.md) |  Statistics Refresher |
+|Feb 21 - 25   |  Documentation: Github Wiki/Github Markup Language |  Documentation: Github Wikis/Github Markup Language |
+| Feb 28 - Mar 4   |  Github Pages | Github Pages  |
+| Mar 7 - 11   | Spring Break  | Spring Break  |
+| Mar 14 - 18   |  Version Control / Documentation |  Jupyter Notebooks / Data Cleaning with Pandas  |
+| Mar 21 - 25   |  HPC | HPC  |
+| Mar 28 - Apr 1   | CyVerse  | CyVerse  |
+| Apr 4 - 8    |  Containers |  Containers  |
+| Apr 11 - 15   |  AI/ML Ethics & Applications |  AI/ML Ethics & Applications |
+| Apr 18 - 22   | Data Visualization  |   |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+***
 
-1. Numbered
-2. List
+Created: 02/16/2022 (C. Lizarraga);
+Last update: 02/17/2022 (C. Lizarraga)
 
-**Bold** and _Italic_ and `Code` text
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ua-data7/Trainings/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="https://datascience.arizona.edu/sites/default/files/footer-logo.png" width="256">
