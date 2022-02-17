@@ -1,11 +1,13 @@
-## Project Management
+## Project Management Design
 
-![PM](https://www.picpedia.org/handwriting/images/project-management.jpg)
+<img src="https://www.picpedia.org/handwriting/images/project-management.jpg" width="512">
+
 (Credit: Nick Youngson CC BY-SA 3.0 Alpha Stock Images)
 
 
 ***
-**List of Resources**
+
+### List of Resources
 
 * [Lab Social Contract](https://www.schlosslab.org/lab_business/social_contract.html), (2019) Schloss Lab.
 * [GenoPhenoEnvo Governance and Operations Manual](https://zenodo.org/record/3839120#.Yg3rOS-B2qB), (2020). Genomics, Phenotypes, and Environment (GenoPhenoEnvo) Research Team.
