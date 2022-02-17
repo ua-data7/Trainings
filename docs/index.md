@@ -3,7 +3,7 @@
 
 ![UA Data Science Institute ](https://github.com/clizarraga-UAD7/Workshops/blob/main/UA_OldMainBldg.jpeg?raw=true)
 
-(Sabino Canyon AZ, Image by Author, CC)
+(University of Arizona Old Main Bldg., Image by Author, CC)
 
 **Welcome to the Spring 2022 DSI Trainings Project for R4R Graduate Students and DSF Postdocs.**
 
