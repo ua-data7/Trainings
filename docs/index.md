@@ -9,6 +9,8 @@
 
 **Coordinators:** Maliaca Oxnam, Holly Ellingson.
 
+***
+
 **Sessions Spring 2022**
 
 | Date | Session 1 | Session 2 |
@@ -17,7 +19,7 @@
 |Jan 31 - Feb 4   |  [Introduction to Open Science](OpenScience.md) |  [FAIR/CARE](FAIR-CARE.md) |
 |  Feb 7 - 11 |  [Project Management](./ProjectManagement.md) |  Project Management Lab |
 | Feb 14 - 18   | [Data Management FAIR/CARE](DataManagement.md) |  Statistics Refresher |
-|Feb 21 - 25   |  Documentation: Github Wiki/Github Markup Language |  Documentation: Github Wikis/Github Markup Language |
+|Feb 21 - 25   |  Documentation: [Github Wiki/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |  Documentation: Github Wikis/Github Pages |
 | Feb 28 - Mar 4   |  Github Pages | Github Pages  |
 | Mar 7 - 11   | Spring Break  | Spring Break  |
 | Mar 14 - 18   |  Version Control / Documentation |  Jupyter Notebooks / Data Cleaning with Pandas  |
@@ -31,7 +33,7 @@
 ***
 
 Created: 02/16/2022 (C. Lizarraga);
-Last update: 02/17/2022 (C. Lizarraga)
+Last update: 02/21/2022 (C. Lizarraga)
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
