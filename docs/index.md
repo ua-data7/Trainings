@@ -20,7 +20,7 @@
 |  Feb 7 - 11 |  [Project Management](./ProjectManagement.md) |  Project Management Lab |
 | Feb 14 - 18   | [Data Management FAIR/CARE](DataManagement.md) |  Statistics Refresher |
 |Feb 21 - 25   |  Documentation: [Github Wiki/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |  Documentation: [Github Wikis/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |
-| Feb 28 - Mar 4   |  Github Pages | Github Pages  |
+| Feb 28 - Mar 4   |  R Markdown | R Markdown   |
 | Mar 7 - 11   | _**Spring Break**_  | _**Spring Break**_  |
 | Mar 14 - 18   |  [Jupyter Notebooks](https://github.com/clizarraga-UAD7/Workshops/wiki/Jupyter-Notebooks) / [Data Cleaning with Pandas](https://github.com/clizarraga-UAD7/Workshops/wiki/Pandas-for-Data-Analysis) | [Exploratory Data Analysis](https://github.com/clizarraga-UAD7/Workshops/wiki/Exploratory-Data-Analysis) |
 | Mar 21 - 25   |   [UA HPC Trainings](https://public.confluence.arizona.edu/display/UAHPC/Training)  | [UA HPC User Guide](https://public.confluence.arizona.edu/display/UAHPC/User+Guide) |
