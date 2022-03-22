@@ -22,9 +22,9 @@
 |Feb 21 - 25   |  Documentation: [Github Wiki/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |  Documentation: Github Wikis/Github Pages |
 | Feb 28 - Mar 4   |  Github Pages | Github Pages  |
 | Mar 7 - 11   | Spring Break  | Spring Break  |
-| Mar 14 - 18   |  Version Control / Documentation |  Jupyter Notebooks / Data Cleaning with Pandas  |
-| Mar 21 - 25   |  HPC | HPC  |
-| Mar 28 - Apr 1   | CyVerse  | CyVerse  |
+| Mar 14 - 18   |  Version Control / Documentation |  [Jupyter Notebooks](https://github.com/clizarraga-UAD7/Workshops/wiki/Jupyter-Notebooks) / [Data Cleaning with Pandas](https://github.com/clizarraga-UAD7/Workshops/wiki/Pandas-for-Data-Analysis)  |
+| Mar 21 - 25   |  [HPC User Guide](https://public.confluence.arizona.edu/display/UAHPC/User+Guide) | [HPC Trainings](https://public.confluence.arizona.edu/display/UAHPC/Training)  |
+| Mar 28 - Apr 1   | CyVerse  | [CyVerse Learning Center](https://cyverse-learning-materials.github.io/learning-materials-home/)  |
 | Apr 4 - 8    |  Containers |  Containers  |
 | Apr 11 - 15   |  AI/ML Ethics & Applications |  AI/ML Ethics & Applications |
 | Apr 18 - 22   | Data Visualization  |   |
