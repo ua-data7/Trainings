@@ -19,11 +19,13 @@
 |Jan 31 - Feb 4   |  [Introduction to Open Science](OpenScience.md) |  [FAIR/CARE](FAIR-CARE.md) |
 |  Feb 7 - 11 |  [Project Management](./ProjectManagement.md) |  Project Management Lab |
 | Feb 14 - 18   | [Data Management FAIR/CARE](DataManagement.md) |  Statistics Refresher |
-|Feb 21 - 25   |  Documentation: [Github Wiki/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |  Documentation: [Github Wikis/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |
+|    | [Introduction to Github](https://github.com/clizarraga-UAD7/Workshops/wiki/Introduction-to-Github) / |
+| Feb 21 - 25 |  Documentation: [Github Wiki/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |  Documentation: [Github Wikis/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |
 | Feb 28 - Mar 4   |  R Markdown | R Markdown   |
 | Mar 7 - 11   | _**Spring Break**_  | _**Spring Break**_  |
 | Mar 14 - 18   |  [Jupyter Notebooks](https://github.com/clizarraga-UAD7/Workshops/wiki/Jupyter-Notebooks) / [Data Cleaning with Pandas](https://github.com/clizarraga-UAD7/Workshops/wiki/Pandas-for-Data-Analysis) | [Exploratory Data Analysis](https://github.com/clizarraga-UAD7/Workshops/wiki/Exploratory-Data-Analysis) |
 | Mar 21 - 25   |   [UA HPC Trainings](https://public.confluence.arizona.edu/display/UAHPC/Training)  | [UA HPC User Guide](https://public.confluence.arizona.edu/display/UAHPC/User+Guide) |
+|   |  [Intro to HPC Workshop](https://ua-researchcomputing-hpc.github.io/Intro-to-HPC/) | [Introduction to HPC Machine Learning](https://ua-researchcomputing-hpc.github.io/Intro-to-Machine-Learning/)   |
 | Mar 28 - Apr 1   | [CyVerse Self Guided Tour](https://cyverse-learning-materials.github.io/cyverse_mooc/)  | [CyVerse Learning Center](https://cyverse-learning-materials.github.io/learning-materials-home/)  |
 | Apr 4 - 8    |  Containers |  Containers  |
 | Apr 11 - 15   |  AI/ML Ethics & Applications |  AI/ML Ethics & Applications |
