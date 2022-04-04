@@ -27,7 +27,7 @@
 | Mar 21 - 25   |   [UA HPC Trainings](https://public.confluence.arizona.edu/display/UAHPC/Training)  | [UA HPC User Guide](https://public.confluence.arizona.edu/display/UAHPC/User+Guide) |
 |   |  [Intro to HPC Workshop](https://ua-researchcomputing-hpc.github.io/Intro-to-HPC/) | [Introduction to HPC Machine Learning](https://ua-researchcomputing-hpc.github.io/Intro-to-Machine-Learning/)   |
 | Mar 28 - Apr 1   | [CyVerse Self Guided Tour](https://cyverse-learning-materials.github.io/cyverse_mooc/)  | [CyVerse Learning Center](https://cyverse-learning-materials.github.io/learning-materials-home/)  |
-| Apr 4 - 8    |  Containers |  Containers  |
+| Apr 4 - 8    |  [Guide](https://hackmd.io/gzNAPsEqQ5C0Q1TPKSpb4A?view) / [Presentation Slides](https://docs.google.com/presentation/d/1roOozVnRRIiMWrTLZ2gqByH-eGuksJyCY9QEG4dmAHM/edit#slide=id.p) |  [Containers Notes](https://cyverse-learning-materials.github.io/container-camp/)  |
 | Apr 11 - 15   |  AI/ML Ethics & Applications |  AI/ML Ethics & Applications |
 | Apr 18 - 22   | Data Visualization  |   |
 
