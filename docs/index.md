@@ -28,14 +28,14 @@
 |   |  [Intro to HPC Workshop](https://ua-researchcomputing-hpc.github.io/Intro-to-HPC/) | [Introduction to HPC Machine Learning](https://ua-researchcomputing-hpc.github.io/Intro-to-Machine-Learning/)   |
 | Mar 28 - Apr 1   | [CyVerse Self Guided Tour](https://cyverse-learning-materials.github.io/cyverse_mooc/)  | [CyVerse Learning Center](https://cyverse-learning-materials.github.io/learning-materials-home/)  |
 | Apr 4 - 8    |  [Guide](https://hackmd.io/gzNAPsEqQ5C0Q1TPKSpb4A?view) / [Presentation Slides](https://docs.google.com/presentation/d/1roOozVnRRIiMWrTLZ2gqByH-eGuksJyCY9QEG4dmAHM/edit#slide=id.p) |  [Containers Notes](https://cyverse-learning-materials.github.io/container-camp/)  |
-| Apr 11 - 15   |  AI/ML Ethics & Applications |  AI/ML Ethics & Applications |
+| Apr 11 - 15   |  [The Command Linte Interface](https://github.com/clizarraga-UAD7/Workshops/wiki/The-Command-Line-Interface-Shell) |  [AI/ML Ethics & Applications](https://tinyurl.com/UAD7-EthicsAIML) |
 | Apr 18 - 22   | Data Visualization  |   |
 
 
 ***
 
 Created: 02/16/2022 (C. Lizarraga);
-Last update: 03/22/2022 (C. Lizarraga)
+Last update: 04/13/2022 (C. Lizarraga)
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="128">  [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
