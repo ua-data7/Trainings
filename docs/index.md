@@ -17,11 +17,11 @@
 | :---: | :---       | :---  |
 |  Jan 24 - 28 |   Introduction, Expectations |  Present own research |
 |Jan 31 - Feb 4   |  [Introduction to Open Science](OpenScience.md) |  [FAIR/CARE](FAIR-CARE.md) |
-|  Feb 7 - 11 |  [Project Management](./ProjectManagement.md) |  Project Management Lab |
+|  Feb 7 - 11 |  [Project Management](./ProjectManagement.md) |  [Project Management Slides](https://drive.google.com/file/d/184BQHtO4H4nJpYUTCm5YRc2tpxiuhjsb/view) |
 | Feb 14 - 18   | [Data Management FAIR/CARE](DataManagement.md) |  Statistics Refresher |
 |    | [Introduction to Github](https://github.com/clizarraga-UAD7/Workshops/wiki/Introduction-to-Github) / |
 | Feb 21 - 25 |  Documentation: [Github Wiki/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |  Documentation: [Github Wikis/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |
-| Feb 28 - Mar 4   |  R Markdown | R Markdown   |
+| Feb 28 - Mar 4   |  [R Markdown](https://github.com/hidyverse/RMD4HS) | [RMarkdown for Health Scientists](https://hidyverse.github.io/RMD4HS/) |
 | Mar 7 - 11   | _**Spring Break**_  | _**Spring Break**_  |
 | Mar 14 - 18   |  [Jupyter Notebooks](https://github.com/clizarraga-UAD7/Workshops/wiki/Jupyter-Notebooks) / [Data Cleaning with Pandas](https://github.com/clizarraga-UAD7/Workshops/wiki/Pandas-for-Data-Analysis) | [Exploratory Data Analysis](https://github.com/clizarraga-UAD7/Workshops/wiki/Exploratory-Data-Analysis) |
 | Mar 21 - 25   |   [UA HPC Trainings](https://public.confluence.arizona.edu/display/UAHPC/Training)  | [UA HPC User Guide](https://public.confluence.arizona.edu/display/UAHPC/User+Guide) |
