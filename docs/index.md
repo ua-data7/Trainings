@@ -17,7 +17,7 @@
 | :---: | :---       | :---  |
 |  Jan 24 - 28 |   Introduction, Expectations |  Present own research |
 |Jan 31 - Feb 4   |  [Introduction to Open Science](OpenScience.md) |  [FAIR/CARE](FAIR-CARE.md) |
-|  Feb 7 - 11 |  [Project Management](./ProjectManagement.md) |  [Project Management Slides](https://drive.google.com/file/d/184BQHtO4H4nJpYUTCm5YRc2tpxiuhjsb/view) |
+|  Feb 7 - 11 |  [Project Management Slides](https://drive.google.com/file/d/184BQHtO4H4nJpYUTCm5YRc2tpxiuhjsb/view) | [Project Management](./ProjectManagement.md) |
 | Feb 14 - 18   | [Data Management FAIR/CARE](DataManagement.md) |  Statistics Refresher |
 |    | [Introduction to Github](https://github.com/clizarraga-UAD7/Workshops/wiki/Introduction-to-Github) / |
 | Feb 21 - 25 |  Documentation: [Github Wiki/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |  Documentation: [Github Wikis/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |
