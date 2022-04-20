@@ -21,7 +21,7 @@
 | Feb 14 - 18   | [Data Management FAIR/CARE](DataManagement.md) |  Statistics Refresher |
 |    | [Introduction to Github](https://github.com/clizarraga-UAD7/Workshops/wiki/Introduction-to-Github) / |
 | Feb 21 - 25 |  Documentation: [Github Wiki/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |  Documentation: [Github Wikis/Github Pages](https://github.com/clizarraga-UAD7/Workshops/wiki/Github-Wikis-and-Github-Pages) |
-| Feb 28 - Mar 4   |  [R Markdown](https://github.com/hidyverse/RMD4HS) | [RMarkdown for Health Scientists](https://hidyverse.github.io/RMD4HS/) |
+| Feb 28 - Mar 4   |  [R Markdown](https://github.com/hidyverse/RMD4HS) | [`blogdown` to GitHub Pages](https://hidyverse.github.io/RMD4HS/) |
 | Mar 7 - 11   | _**Spring Break**_  | _**Spring Break**_  |
 | Mar 14 - 18   |  [Jupyter Notebooks](https://github.com/clizarraga-UAD7/Workshops/wiki/Jupyter-Notebooks) / [Data Cleaning with Pandas](https://github.com/clizarraga-UAD7/Workshops/wiki/Pandas-for-Data-Analysis) | [Exploratory Data Analysis](https://github.com/clizarraga-UAD7/Workshops/wiki/Exploratory-Data-Analysis) |
 | Mar 21 - 25   |   [UA HPC Trainings](https://public.confluence.arizona.edu/display/UAHPC/Training)  | [UA HPC User Guide](https://public.confluence.arizona.edu/display/UAHPC/User+Guide) |
@@ -29,7 +29,7 @@
 | Mar 28 - Apr 1   | [CyVerse Self Guided Tour](https://cyverse-learning-materials.github.io/cyverse_mooc/)  | [CyVerse Learning Center](https://cyverse-learning-materials.github.io/learning-materials-home/)  |
 | Apr 4 - 8    |  [Guide](https://hackmd.io/gzNAPsEqQ5C0Q1TPKSpb4A?view) / [Presentation Slides](https://docs.google.com/presentation/d/1roOozVnRRIiMWrTLZ2gqByH-eGuksJyCY9QEG4dmAHM/edit#slide=id.p) |  [Containers Notes](https://cyverse-learning-materials.github.io/container-camp/)  |
 | Apr 11 - 15   |  [The Command Linte Interface](https://github.com/clizarraga-UAD7/Workshops/wiki/The-Command-Line-Interface-Shell) |  [AI/ML Ethics & Applications](https://tinyurl.com/UAD7-EthicsAIML) |
-| Apr 18 - 22   | Data Visualization  |   |
+| Apr 18 - 22   | [Data Visualization](https://github.com/hidyverse/data_visualization_foundation)  | [Regular Expressions](https://github.com/clizarraga-UAD7/Workshops/wiki/UNIX-Shell---Command-Line-Programming)  |
 
 
 ***
