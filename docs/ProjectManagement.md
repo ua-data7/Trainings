@@ -15,7 +15,7 @@
 * [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) (2017). Wilson, G. _et al_ PLOS Computational Biology.
 * [Five Reasons to Learn R for Project Monitoring](https://towardsdatascience.com/five-reasons-to-learn-r-for-project-monitoring-95991e3efb55), (2020). Pugachev, A. Towards Data Science.
 * [Is - Is Not Analysis](https://4improvement.one/knowledge/tools-techniques/25-problem-analysis-tool/57-is-–-is-not), (2022). 4Improvement.
-
+* [Some hard numbers on science’s leadership problems](https://www.nature.com/articles/d41586-018-05143-8). A Nature survey of 3,200 scientists reveals the tensions bubbling in research groups around the world. Richard Van Noorden. Nature (2018).
 
 ***
 
