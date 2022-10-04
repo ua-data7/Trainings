@@ -16,6 +16,8 @@
 * [Five Reasons to Learn R for Project Monitoring](https://towardsdatascience.com/five-reasons-to-learn-r-for-project-monitoring-95991e3efb55), (2020). Pugachev, A. Towards Data Science.
 * [Is - Is Not Analysis](https://4improvement.one/knowledge/tools-techniques/25-problem-analysis-tool/57-is-–-is-not), (2022). 4Improvement.
 * [Some hard numbers on science’s leadership problems](https://www.nature.com/articles/d41586-018-05143-8). A Nature survey of 3,200 scientists reveals the tensions bubbling in research groups around the world. Richard Van Noorden. Nature (2018).
+* [What Is A RACI Chart? How This Project Management Tool Can Boost Your Productivity](https://www.forbes.com/advisor/business/raci-chart/). Dana Miranda,  Rob Watts. Forbes Advisor. 
+* [Intro to the Open Leadership Series](https://mozilla.github.io/open-leadership-training-series/articles/readme/). Mozilla Foundation.
 
 ***
 
